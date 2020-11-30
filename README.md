@@ -1,0 +1,2 @@
+# BambiForeverBotServer
+The Serverside!
